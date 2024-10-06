@@ -16,7 +16,7 @@ Tools:
 - Edit `stage1.lua` with your PC's IP/PORT
 - Overwrite the savegame of your choice with the edited version of `stage1.lua`
 - send stage2.lua via netcat
-- send exploit.exe via netcat after
+- connect to the xbox via netcat just like collateral damage
 
 Example
 
@@ -49,4 +49,5 @@ Windows LuaJIT: https://github.com/luapower/luajit/tree/master/bin/mingw64 (only
 - Shadow LAG
 - Team XboxOneResearch
 - msixvc
-- InvoxiPlayGames, for their initial [OneDumpGame](https://github.com/invoxiplaygames/onedumpgame) dumping solution the dumping code in this repo is based off of. 
+- InvoxiPlayGames, for their initial [OneDumpGame](https://github.com/invoxiplaygames/onedumpgame) dumping solution the dumping code in this repo is based off of.
+- exploitsForSale for collateral damage and solcitce

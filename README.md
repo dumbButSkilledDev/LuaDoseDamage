@@ -11,6 +11,8 @@ Tools:
 
 - XblContainerReader: <https://github.com/LukeFZ/XblContainerReader>
 
+# This is not SYSTEM OS code execution, only game OS. 
+
 ## How To
 
 - Edit `stage1.lua` with your PC's IP/PORT

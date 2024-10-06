@@ -15,7 +15,8 @@ Tools:
 
 - Edit `stage1.lua` with your PC's IP/PORT
 - Overwrite the savegame of your choice with the edited version of `stage1.lua`
-- Edit `stage2.lua` and serve it via netcat(TCP) on the configured IP/Port that was configured in `stage1` 
+- send stage2.lua via netcat
+- send exploit.exe via netcat after
 
 Example
 

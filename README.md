@@ -1,4 +1,4 @@
-# LuaFFI Code execution
+# LuaFFI Code execution ( but "thats alot of damage" )
 
 To be used with titles that support FFI in their LUA engine
 

@@ -1,5 +1,5 @@
 # LuaFFI Code execution ( but "thats alot of damage" )
-
+# THIS WONT WORK RIGHT NOW!!!
 To be used with titles that support FFI in their LUA engine
 
 f.e.
